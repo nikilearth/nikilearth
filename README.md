@@ -5,7 +5,7 @@
 
 ##  About Me  
 -  **ECE Student** passionate about **electronics & circuit design**  
--  Enthusiastic about ** VLSI**  
+-  Enthusiastic about ** VLSI **  
 -  Currently exploring **digital design & microcontrollers**  
 
 
