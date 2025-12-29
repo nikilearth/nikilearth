@@ -6,9 +6,9 @@
 
 ### About Me
 
-I am an **Electronics and Communication Engineering** student with a strong focus on the intersection of hardware and software. My academic journey is defined by a curiosity for how data moves from the physical world into digital systems.
+I'm an **Electronics and Communication Engineering** student with a strong focus on the intersection of hardware and software.c uriosity for how data moves from the physical world into digital systems.
 
-Currently, I am deepening my understanding of **VLSI** and **Digital Design**, working on projects that bridge the gap between theoretical circuit analysis and practical implementation. I enjoy the challenge of optimizing logic for speed and area, and I am actively looking to collaborate on open-source hardware or embedded systems projects.
+Currently, I'm learning  **Digital Design**, working on projects that bridge the gap between theoretical circuit analysis and practical implementation and I'm actively looking to collaborate on open source hardware or embedded systems projects.
 
 -  **Current Focus:** VLSI Design, Verilog, and Digital Logic.
 -  **Learning:**  microcontroller architecture and FPGA prototyping.
@@ -18,9 +18,9 @@ Currently, I am deepening my understanding of **VLSI** and **Digital Design**, w
 
 ### Technical Toolkit
 
-| Domain | Tools & Technologies |
+| Domain | Tools  |
 | :--- | :--- |
-| **Languages** | C, C++, Python, Verilog |
+| **Languages** | C, Python, Verilog |
 | **Hardware** | Arduino, ESP32 |
 | **Simulation** | LTSpice |
 
