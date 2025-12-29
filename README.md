@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hello,+I'm+Nikil.;Electronics+and+Communication+Engineering+Student.;." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hello,+I'm+Nikil.;Electronics+and+Communication+Engineering+Student.;" alt="Typing SVG" />
 </div>
 
 ---
@@ -18,12 +18,12 @@ Currently, I am deepening my understanding of **VLSI** and **Digital Design**, w
 
 ### Technical Toolkit
 
-| Domain | Tools & Technologies |
+
 | :--- | :--- |
-| **Languages** | C, C++, Python, Verilog |
-| **Hardware** | Arduino, ESP32, FPGA (Basys 3/Zybo) |
-| **Simulation** | LTSpice, ModelSim, Vivado, MATLAB |
-| **Core** | Digital Electronics, Circuit Analysis, Signal Processing |
+| **Languages** | C, Python, Verilog |
+| **Hardware** | Arduino, ESP32, |
+| **Simulation** | LTSpice |
+| **Core** | Digital Electronics, Circuit Analysis |
 
 ---
 
