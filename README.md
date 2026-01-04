@@ -6,7 +6,9 @@
 
 ### About Me
 
-I'm an **Electronics and Communication Engineering** student with a strong focus on the intersection of hardware and software.
+I'm an **ECE** student with a strong focus on the intersection of hardware and software.
 
 Currently, I'm learning  **Digital Design**, working on projects that bridge the gap between theoretical circuit analysis and practical implementation.
+
+
 ---
