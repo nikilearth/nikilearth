@@ -6,8 +6,7 @@
 
 ### About Me
 
-I'm an **Electronics and Communication Engineering** student with a strong focus on the intersection of hardware and software.c uriosity for how data moves from the physical world into digital systems.
+I'm an **Electronics and Communication Engineering** student with a strong focus on the intersection of hardware and software.
 
-Currently, I'm learning  **Digital Design**, working on projects that bridge the gap between theoretical circuit analysis and practical implementation and I'm actively looking to collaborate on open source hardware or embedded systems projects.
-
+Currently, I'm learning  **Digital Design**, working on projects that bridge the gap between theoretical circuit analysis and practical implementation.
 ---
