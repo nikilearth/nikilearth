@@ -10,18 +10,4 @@ I'm an **Electronics and Communication Engineering** student with a strong focus
 
 Currently, I'm learning  **Digital Design**, working on projects that bridge the gap between theoretical circuit analysis and practical implementation and I'm actively looking to collaborate on open source hardware or embedded systems projects.
 
--  **Current Focus:** VLSI Design, Verilog, and Digital Logic.
--  **Learning:**  microcontroller architecture and FPGA prototyping.
--  **Open to:** Collaborations on digital design and embedded systems projects.
-
----
-
-### Technical Toolkit
-
-| Domain | Tools  |
-| :--- | :--- |
-| **Languages** | C, Python, Verilog |
-| **Hardware** | Arduino, ESP32 |
-| **Simulation** | LTSpice |
-
 ---
