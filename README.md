@@ -4,10 +4,6 @@
 
 ---
 
-### About Me
-
-I'm an **ECE** student with a focus on the intersection of hardware and software
-
 
 
 
